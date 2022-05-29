@@ -7,6 +7,7 @@
  <h1 align="center">ChikoShidori</h1>
 
  <div align="center" style="display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,angular,cloudflare,css,deno,bots,express,graphql,html,mongodb,nestjs" />
     <!-- JavaScript -->
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript" />
     <!-- TypeScript -->
