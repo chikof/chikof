@@ -38,7 +38,7 @@
          <img align="center" style="padding:0;" src="https://osu-sig.vercel.app/card?user=chikoshidori&mode=std&lang=en&animation=true&hue=223" />
        </td>
       <td align="center">
-         <img align="center" style="padding:0;width:70%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChikoShidori&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+         <img align="center" style="padding:0;width:70%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chiko&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
       </td>
     </tr>
 </table>
