@@ -4,7 +4,7 @@
 
 <br />
 
-<h1 align="center">ChikoShidori</h1>
+<h1 align="center">Chiko</h1>
 
 <div align="center" style="display: inline-block;">
    <h3 align="center">Languages, technologies and things that I usually use</h1>
