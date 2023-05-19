@@ -8,7 +8,7 @@
 
 <div align="center" style="display: inline-block;">
    <h3 align="center">Languages, technologies and things that I usually use</h1>
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,angular,cloudflare,css,deno,bots,express,graphql,html,mongodb,nestjs,py,vscode,react,apollo,bash,electron,idea,java,lua,nextjs,netlify,nodejs,ps,powershell,regex,rust" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,angular,cloudflare,css,deno,bots,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,electron,idea,java,lua,nextjs,netlify,nodejs,ps,powershell,regex,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix" />
 </div>
 
 ---
