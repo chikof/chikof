@@ -13,6 +13,78 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 ![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C374%20hrs%2027%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 38.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 157 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 11 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                275 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+🌆 Daytime                1588 commits        ████████░░░░░░░░░░░░░░░░░   31.03 % 
+🌃 Evening                2320 commits        ███████████░░░░░░░░░░░░░░   45.34 % 
+🌙 Night                  934 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   794 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Tuesday                  535 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Wednesday                720 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Thursday                 720 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Friday                   1007 commits        █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Saturday                 723 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Sunday                   618 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+YAML                     1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Docker                   1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Rust                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+netrw                    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Lua                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+
+🔥 Editors: 
+Neovim                   8 hrs 8 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  8 hrs 8 mins        █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               37 repos            █████████████████░░░░░░░░   67.27 % 
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Rust                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+```
+
+
+
+
+ Last Updated on 19/05/2023 19:48:43 UTC
 <!--END_SECTION:waka-->
 
 
