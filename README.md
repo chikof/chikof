@@ -13,17 +13,17 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 ![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C431%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C430%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 35.4 kB Used in GitHub's Storage 
  > 
-> 🏆 168 Contributions in the Year 2023
+> 🏆 170 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -34,21 +34,21 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                340 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-🌆 Daytime                2115 commits        ████████░░░░░░░░░░░░░░░░░   31.03 % 
-🌃 Evening                3027 commits        ███████████░░░░░░░░░░░░░░   44.42 % 
-🌙 Night                  1333 commits        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+🌞 Morning                339 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+🌆 Daytime                2108 commits        ████████░░░░░░░░░░░░░░░░░   31.05 % 
+🌃 Evening                3011 commits        ███████████░░░░░░░░░░░░░░   44.35 % 
+🌙 Night                  1331 commits        █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Tuesday                  713 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Wednesday                898 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Thursday                 955 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Friday                   1437 commits        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-Saturday                 964 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Sunday                   839 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Monday                   1011 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Tuesday                  708 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Wednesday                894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Thursday                 954 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Friday                   1429 commits        █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Saturday                 960 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Sunday                   833 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
 ```
 
 
@@ -84,7 +84,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2023 01:28:46 UTC
+ Last Updated on 20/06/2023 00:52:40 UTC
 <!--END_SECTION:waka-->
 
 
