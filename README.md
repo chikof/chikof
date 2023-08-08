@@ -13,7 +13,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 ![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C466%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C468%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,7 +21,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 
 **🐱 My GitHub Data** 
 
-> 📦 38.2 kB Used in GitHub's Storage 
+> 📦 38.1 kB Used in GitHub's Storage 
  > 
 > 🏆 193 Contributions in the Year 2023
  > 
@@ -34,21 +34,21 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                422 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+🌞 Morning                423 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 🌆 Daytime                2316 commits        ████████░░░░░░░░░░░░░░░░░   31.07 % 
-🌃 Evening                3238 commits        ███████████░░░░░░░░░░░░░░   43.44 % 
+🌃 Evening                3237 commits        ███████████░░░░░░░░░░░░░░   43.43 % 
 🌙 Night                  1478 commits        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1150 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Monday                   1151 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 Tuesday                  737 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 Wednesday                991 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 Thursday                 1100 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
 Friday                   1522 commits        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
 Saturday                 1004 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Sunday                   950 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Sunday                   949 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
 ```
 
 
@@ -58,15 +58,16 @@ Sunday                   950 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               2 hrs 45 mins       █████████████████████░░░░   82.36 % 
-Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-netrw                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+TypeScript               4 hrs               █████████████████████░░░░   82.13 % 
+Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+netrw                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 20 mins       █████████████████████████   100.00 % 
+Neovim                   4 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,7 +83,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2023 00:49:17 UTC
+ Last Updated on 08/08/2023 00:47:59 UTC
 <!--END_SECTION:waka-->
 
 
