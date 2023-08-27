@@ -13,7 +13,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 ![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C491%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C491%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,11 +23,11 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 
 > 📦 38.7 kB Used in GitHub's Storage 
  > 
-> 🏆 204 Contributions in the Year 2023
+> 🏆 205 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
@@ -58,17 +58,17 @@ Sunday                   836 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               9 hrs 44 mins       █████████████████░░░░░░░░   69.98 % 
-netrw                    2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-SQL                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+TypeScript               4 hrs 31 mins       ███████████████░░░░░░░░░░   59.77 % 
+netrw                    1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+SQL                      54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+TSConfig                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-Neovim                   13 hrs 54 mins      █████████████████████████   100.00 % 
+Neovim                   7 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -84,7 +84,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2023 00:40:40 UTC
+ Last Updated on 27/08/2023 00:44:33 UTC
 <!--END_SECTION:waka-->
 
 
