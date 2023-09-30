@@ -13,17 +13,17 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 ![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C506%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C506%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 37.8 kB Used in GitHub's Storage 
  > 
-> 🏆 219 Contributions in the Year 2023
+> 🏆 220 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -34,21 +34,21 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                426 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-🌆 Daytime                2235 commits        ████████░░░░░░░░░░░░░░░░░   31.05 % 
-🌃 Evening                3096 commits        ███████████░░░░░░░░░░░░░░   43.02 % 
-🌙 Night                  1440 commits        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+🌞 Morning                431 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+🌆 Daytime                2273 commits        ████████░░░░░░░░░░░░░░░░░   31.03 % 
+🌃 Evening                3161 commits        ███████████░░░░░░░░░░░░░░   43.15 % 
+🌙 Night                  1460 commits        █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1087 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Tuesday                  733 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Wednesday                1021 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Thursday                 1045 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Friday                   1478 commits        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Saturday                 948 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Sunday                   885 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Monday                   1112 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Tuesday                  738 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Wednesday                1039 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Thursday                 1062 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Friday                   1498 commits        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Saturday                 968 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Sunday                   908 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
 ```
 
 
@@ -84,7 +84,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2023 00:42:54 UTC
+ Last Updated on 30/09/2023 00:41:39 UTC
 <!--END_SECTION:waka-->
 
 
