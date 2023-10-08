@@ -13,7 +13,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 ![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C511%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C514%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,7 +21,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 
 **🐱 My GitHub Data** 
 
-> 📦 38.2 kB Used in GitHub's Storage 
+> 📦 38.3 kB Used in GitHub's Storage 
  > 
 > 🏆 219 Contributions in the Year 2023
  > 
@@ -58,17 +58,17 @@ Sunday                   878 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   44.89 % 
-Python                   42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Other                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-netrw                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Text                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+TypeScript               1 hr 52 mins        ██████████░░░░░░░░░░░░░░░   38.31 % 
+Python                   1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   32.84 % 
+netrw                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Lua                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 54 mins       █████████████████████████   100.00 % 
+Neovim                   4 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -84,7 +84,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2023 00:41:55 UTC
+ Last Updated on 08/10/2023 00:45:34 UTC
 <!--END_SECTION:waka-->
 
 
