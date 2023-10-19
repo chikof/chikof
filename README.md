@@ -13,7 +13,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 ![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C526%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C528%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,7 +23,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 
 > 📦 38.2 kB Used in GitHub's Storage 
  > 
-> 🏆 219 Contributions in the Year 2023
+> 🏆 220 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -36,7 +36,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 ```text
 🌞 Morning                438 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 🌆 Daytime                2292 commits        ████████░░░░░░░░░░░░░░░░░   31.20 % 
-🌃 Evening                3157 commits        ███████████░░░░░░░░░░░░░░   42.98 % 
+🌃 Evening                3158 commits        ███████████░░░░░░░░░░░░░░   42.99 % 
 🌙 Night                  1458 commits        █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -44,7 +44,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 ```text
 Monday                   1106 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 Tuesday                  750 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Wednesday                1058 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Wednesday                1059 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 Thursday                 1057 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 Friday                   1483 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
 Saturday                 972 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
@@ -58,17 +58,17 @@ Sunday                   919 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               8 hrs               ████████████████████░░░░░   78.31 % 
-netrw                    1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+TypeScript               7 hrs 20 mins       ███████████████████░░░░░░   77.73 % 
+netrw                    1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 13 mins      █████████████████████████   100.00 % 
+Neovim                   9 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -84,7 +84,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2023 00:43:04 UTC
+ Last Updated on 19/10/2023 00:43:23 UTC
 <!--END_SECTION:waka-->
 
 
