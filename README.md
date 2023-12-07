@@ -13,17 +13,15 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 ![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C548%20hrs%2050%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 37.1 kB Used in GitHub's Storage 
+> 📦 37.0 kB Used in GitHub's Storage 
  > 
-> 🏆 237 Contributions in the Year 2023
+> 🏆 241 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -31,46 +29,6 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                440 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-🌆 Daytime                2212 commits        ████████░░░░░░░░░░░░░░░░░   30.56 % 
-🌃 Evening                3138 commits        ███████████░░░░░░░░░░░░░░   43.35 % 
-🌙 Night                  1449 commits        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   1113 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Tuesday                  690 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Wednesday                1085 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Thursday                 971 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Friday                   1415 commits        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Saturday                 1010 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Sunday                   955 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-Rust                     2 hrs 37 mins       █████████████████░░░░░░░░   68.97 % 
-netrw                    32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-TOML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-
-🔥 Editors: 
-Neovim                   3 hrs 48 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  3 hrs 48 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -84,7 +42,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 00:45:29 UTC
+ Last Updated on 07/12/2023 00:45:50 UTC
 <!--END_SECTION:waka-->
 
 
