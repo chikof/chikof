@@ -13,7 +13,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 ![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C559%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C560%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,17 +58,17 @@ Sunday                   1003 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Rust                     1 hr 1 min          ███████████░░░░░░░░░░░░░░   42.24 % 
-TypeScript               56 mins             ██████████░░░░░░░░░░░░░░░   38.90 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-C#                       9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-netrw                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Rust                     1 hr 10 mins        ██████████████░░░░░░░░░░░   54.24 % 
+TypeScript               33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+C#                       9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+netrw                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 24 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -84,7 +84,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2024 00:44:54 UTC
+ Last Updated on 07/01/2024 00:49:12 UTC
 <!--END_SECTION:waka-->
 
 
