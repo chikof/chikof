@@ -21,7 +21,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 
 **🐱 My GitHub Data** 
 
-> 📦 37.4 kB Used in GitHub's Storage 
+> 📦 38.0 kB Used in GitHub's Storage 
  > 
 > 🏆 2 Contributions in the Year 2024
  > 
@@ -58,17 +58,13 @@ Sunday                   985 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               1 hr 12 mins        ████████████████░░░░░░░░░   62.05 % 
-netrw                    29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-Prisma                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 56 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -84,7 +80,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2024 00:45:32 UTC
+ Last Updated on 02/02/2024 00:42:53 UTC
 <!--END_SECTION:waka-->
 
 
