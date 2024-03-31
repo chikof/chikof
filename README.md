@@ -56,14 +56,13 @@ Sunday                   998 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               9 mins              ████████████████████████░   95.04 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,7 +78,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/03/2024 00:41:42 UTC
+ Last Updated on 31/03/2024 00:47:48 UTC
 <!--END_SECTION:waka-->
 
 
