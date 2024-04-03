@@ -13,7 +13,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 ![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C605%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C607%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,7 +21,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 
 **🐱 My GitHub Data** 
 
-> 📦 38.0 kB Used in GitHub's Storage 
+> 📦 37.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -32,7 +32,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                492 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+🌞 Morning                493 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 🌆 Daytime                2327 commits        ███████░░░░░░░░░░░░░░░░░░   29.59 % 
 🌃 Evening                3391 commits        ███████████░░░░░░░░░░░░░░   43.12 % 
 🌙 Night                  1654 commits        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
@@ -41,7 +41,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 
 ```text
 Monday                   1171 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Tuesday                  784 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Tuesday                  785 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
 Wednesday                1181 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
 Thursday                 1049 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
 Friday                   1564 commits        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
@@ -56,17 +56,17 @@ Sunday                   998 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               2 hrs 36 mins       █████████████████████████   98.85 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               4 hrs 37 mins       ████████████████████████░   94.28 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,7 +82,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2024 00:44:30 UTC
+ Last Updated on 03/04/2024 00:42:48 UTC
 <!--END_SECTION:waka-->
 
 
