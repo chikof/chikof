@@ -1,5 +1,5 @@
 <h2><img src="https://cdn.discordapp.com/emojis/1100181376730402906.gif?quality=lossless" width="40"> Guten tag y'all, I'm Chiko <img src="https://a.ppy.sh/15907233" width="50"></h2>
-<a href="https://twitter.com/Zzul0714/status/1654451338179395585?s=20"><img align='right' src="https://cataas.com/cat" width="230"></a>
+<a href="https://cataas.com"><img align='right' src="https://cataas.com/cat" width="230"></a>
 <p><em>Developer at <a href="https://github.com/dbotsfun">dbots</a></em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/chikoxq?label=Follow)](https://twitter.com/intent/follow?screen_name=chikoxq)
