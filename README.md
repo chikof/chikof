@@ -13,7 +13,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 [![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix,workers)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C776%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C780%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -58,19 +58,19 @@ Sunday                   859 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               6 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   41.51 % 
-Rust                     5 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.36 % 
-netrw                    1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Docker                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TypeScript               7 hrs 3 mins        ███████████░░░░░░░░░░░░░░   43.55 % 
+Rust                     5 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.30 % 
+netrw                    1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Docker                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 59 mins      █████████████████░░░░░░░░   68.04 % 
-VS Code                  5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.96 % 
+Neovim                   10 hrs 59 mins      █████████████████░░░░░░░░   67.90 % 
+VS Code                  5 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.10 % 
 
 💻 Operating System: 
-Windows                  10 hrs 59 mins      █████████████████░░░░░░░░   68.04 % 
-Linux                    5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.96 % 
+Windows                  10 hrs 59 mins      █████████████████░░░░░░░░   67.90 % 
+Linux                    5 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.10 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -86,7 +86,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2024 00:49:02 UTC
+ Last Updated on 13/06/2024 00:48:00 UTC
 <!--END_SECTION:waka-->
 
 
