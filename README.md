@@ -21,7 +21,9 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 
 **🐱 My GitHub Data** 
 
-> 📦 43.9 kB Used in GitHub's Storage 
+> 📦 43.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 196 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -78,7 +80,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2024 00:50:13 UTC
+ Last Updated on 11/07/2024 00:51:07 UTC
 <!--END_SECTION:waka-->
 
 
