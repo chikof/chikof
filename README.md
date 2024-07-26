@@ -13,6 +13,8 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 [![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix,workers)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C785%20hrs%202%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.4%20million%20lines%20of%20code-blue)
@@ -21,7 +23,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 
 > 📦 43.4 kB Used in GitHub's Storage 
  > 
-> 🏆 200 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -29,6 +31,42 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                548 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+🌆 Daytime                2278 commits        ████████░░░░░░░░░░░░░░░░░   31.30 % 
+🌃 Evening                3146 commits        ███████████░░░░░░░░░░░░░░   43.22 % 
+🌙 Night                  1307 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   916 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Tuesday                  772 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Wednesday                1099 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Thursday                 976 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Friday                   1489 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Saturday                 1115 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Sunday                   912 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -42,7 +80,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2024 00:51:12 UTC
+ Last Updated on 26/07/2024 00:50:20 UTC
 <!--END_SECTION:waka-->
 
 
