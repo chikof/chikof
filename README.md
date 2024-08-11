@@ -23,6 +23,8 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 
 > 📦 43.4 kB Used in GitHub's Storage 
  > 
+> 🏆 201 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -78,7 +80,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2024 00:51:52 UTC
+ Last Updated on 11/08/2024 00:56:34 UTC
 <!--END_SECTION:waka-->
 
 
