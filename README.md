@@ -13,7 +13,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 [![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix,workers)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C785%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C785%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -23,7 +23,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 
 > 📦 43.4 kB Used in GitHub's Storage 
  > 
-> 🏆 205 Contributions in the Year 2024
+> 🏆 206 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -35,19 +35,19 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 
 ```text
 🌞 Morning                560 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-🌆 Daytime                2315 commits        ████████░░░░░░░░░░░░░░░░░   31.41 % 
-🌃 Evening                3182 commits        ███████████░░░░░░░░░░░░░░   43.18 % 
-🌙 Night                  1313 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+🌆 Daytime                2316 commits        ████████░░░░░░░░░░░░░░░░░   31.42 % 
+🌃 Evening                3182 commits        ███████████░░░░░░░░░░░░░░   43.17 % 
+🌙 Night                  1313 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   921 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Tuesday                  778 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Monday                   921 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Tuesday                  778 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
 Wednesday                1104 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
 Thursday                 987 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 Friday                   1509 commits        █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-Saturday                 1143 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Saturday                 1144 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 Sunday                   928 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
 ```
 
@@ -58,13 +58,15 @@ Sunday                   928 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     12 mins             ██████████████░░░░░░░░░░░   54.93 % 
+Text                     9 mins              ██████████░░░░░░░░░░░░░░░   40.85 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -80,7 +82,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2024 00:49:33 UTC
+ Last Updated on 18/08/2024 00:55:50 UTC
 <!--END_SECTION:waka-->
 
 
