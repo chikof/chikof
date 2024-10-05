@@ -13,7 +13,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 [![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix,workers)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C889%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C890%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -58,16 +58,16 @@ Sunday                   924 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    13 hrs 43 mins      █████████████████████░░░░   85.95 % 
-Rust                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Other                    12 hrs 7 mins       ████████████████████░░░░░   80.04 % 
+Rust                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+JavaScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 35 mins      █████████████████████░░░░   85.09 % 
-Neovim                   2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Chrome                   11 hrs 54 mins      ████████████████████░░░░░   78.54 % 
+Neovim                   3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
 
 💻 Operating System: 
-Windows                  15 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,7 +83,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2024 00:57:59 UTC
+ Last Updated on 05/10/2024 00:58:58 UTC
 <!--END_SECTION:waka-->
 
 
