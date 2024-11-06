@@ -13,7 +13,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 [![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix,workers)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C928%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C929%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,18 +58,18 @@ Sunday                   1036 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Rust                     8 hrs 32 mins       ████████████████████░░░░░   81.09 % 
-Docker                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-SQL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Rust                     8 hrs 43 mins       ████████████████████░░░░░   78.69 % 
+Docker                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+SQL                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🔥 Editors: 
-RustRover                10 hrs 19 mins      ████████████████████████░   98.00 % 
-Neovim                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+RustRover                10 hrs 53 mins      █████████████████████████   98.10 % 
+Neovim                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 💻 Operating System: 
-Linux                    10 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,7 +85,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2024 00:57:41 UTC
+ Last Updated on 06/11/2024 00:58:56 UTC
 <!--END_SECTION:waka-->
 
 
