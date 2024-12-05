@@ -13,7 +13,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 [![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix,workers)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C951%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C954%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,15 +58,17 @@ Sunday                   1599 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Rust                     1 hr 49 mins        █████████████████████████   99.80 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Rust                     3 hrs 38 mins       ███████████████████░░░░░░   77.72 % 
+Nix                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+TOML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🔥 Editors: 
-Neovim                   1 hr 49 mins        █████████████████████████   100.00 % 
+Neovim                   4 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 49 mins        █████████████████████████   100.00 % 
+Linux                    4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,7 +84,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/12/2024 01:05:37 UTC
+ Last Updated on 05/12/2024 01:05:35 UTC
 <!--END_SECTION:waka-->
 
 
