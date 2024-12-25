@@ -13,7 +13,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 [![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix,workers)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C978%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C980%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
@@ -23,7 +23,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 
 > 📦 43.5 kB Used in GitHub's Storage 
  > 
-> 🏆 444 Contributions in the Year 2024
+> 🏆 445 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -58,17 +58,17 @@ Sunday                   1695 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Rust                     8 hrs 30 mins       █████████████░░░░░░░░░░░░   53.00 % 
-Nix                      3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-SQL                      2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-TOML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Rust                     10 hrs 14 mins      █████████████████░░░░░░░░   67.64 % 
+SQL                      2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Nix                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+TOML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-Neovim                   16 hrs 3 mins       █████████████████████████   100.00 % 
+Neovim                   15 hrs 8 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    16 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    15 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -84,7 +84,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2024 00:59:49 UTC
+ Last Updated on 25/12/2024 00:58:35 UTC
 <!--END_SECTION:waka-->
 
 
