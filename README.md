@@ -13,6 +13,8 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 [![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix,workers)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C000%20hrs%2029%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.2%20million%20lines%20of%20code-blue)
@@ -21,12 +23,54 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 
 > 📦 43.8 kB Used in GitHub's Storage 
  > 
+> 🏆 10 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 36 Public Repositories 
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                784 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+🌆 Daytime                4195 commits        ████████░░░░░░░░░░░░░░░░░   32.31 % 
+🌃 Evening                5900 commits        ███████████░░░░░░░░░░░░░░   45.44 % 
+🌙 Night                  2105 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1409 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Tuesday                  918 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Wednesday                1967 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Thursday                 1859 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Friday                   2606 commits        █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Saturday                 1814 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Sunday                   2411 commits        █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+TypeScript               3 hrs 38 mins       █████████████░░░░░░░░░░░░   52.44 % 
+Rust                     2 hrs               ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Nix                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+
+🔥 Editors: 
+Neovim                   6 hrs 57 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    6 hrs 57 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -40,7 +84,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2025 01:01:20 UTC
+ Last Updated on 11/01/2025 01:00:21 UTC
 <!--END_SECTION:waka-->
 
 
