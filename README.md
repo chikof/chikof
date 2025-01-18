@@ -13,7 +13,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 [![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix,workers)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C015%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C019%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -58,17 +58,17 @@ Sunday                   2452 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Rust                     12 hrs 30 mins      █████████████████████░░░░   83.06 % 
-Makefile                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-TOML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-TypeScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Rust                     16 hrs 10 mins      █████████████████████░░░░   84.49 % 
+Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Makefile                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+TOML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Nix                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 3 mins       █████████████████████████   100.00 % 
+Neovim                   19 hrs 8 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    19 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -84,7 +84,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2025 00:58:02 UTC
+ Last Updated on 18/01/2025 00:56:33 UTC
 <!--END_SECTION:waka-->
 
 
