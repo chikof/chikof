@@ -13,7 +13,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 [![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix,workers)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C156%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C158%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,17 +56,17 @@ Sunday                   3238 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Rust                     12 hrs 52 mins      ████████████████████░░░░░   81.04 % 
-TOML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Nix                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-gitignore                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Rust                     11 hrs 17 mins      ███████████████████░░░░░░   77.43 % 
+TOML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Nix                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 52 mins      █████████████████████████   100.00 % 
+Neovim                   14 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,7 +82,7 @@ Nix                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/03/2025 01:03:16 UTC
+ Last Updated on 08/03/2025 00:51:27 UTC
 <!--END_SECTION:waka-->
 
 
