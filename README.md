@@ -13,7 +13,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 [![](https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,cloudflare,css,deno,express,graphql,html,mongodb,nestjs,py,react,apollo,bash,java,lua,nextjs,netlify,nodejs,ps,powershell,rust,neovim,tauri,sentry,postgres,tailwind,prisma,actix,workers)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -21,7 +21,7 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 
 **🐱 My GitHub Data** 
 
-> 📦 62.1 kB Used in GitHub's Storage 
+> 📦 62.0 kB Used in GitHub's Storage 
  > 
 > 🏆 135 Contributions in the Year 2025
  > 
@@ -35,20 +35,20 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 
 ```text
 🌞 Morning                911 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-🌆 Daytime                5326 commits        ████████░░░░░░░░░░░░░░░░░   31.46 % 
-🌃 Evening                7947 commits        ████████████░░░░░░░░░░░░░   46.95 % 
-🌙 Night                  2743 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+🌆 Daytime                5331 commits        ████████░░░░░░░░░░░░░░░░░   31.46 % 
+🌃 Evening                7958 commits        ████████████░░░░░░░░░░░░░   46.96 % 
+🌙 Night                  2745 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1956 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Tuesday                  1184 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Wednesday                2431 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Thursday                 2405 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Friday                   3279 commits        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Saturday                 2187 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Sunday                   3485 commits        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Monday                   1959 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Tuesday                  1189 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Wednesday                2434 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Thursday                 2405 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Friday                   3281 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Saturday                 2190 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Sunday                   3487 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
 ```
 
 
@@ -84,7 +84,7 @@ Nix                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2025 01:03:43 UTC
+ Last Updated on 20/03/2025 01:04:17 UTC
 <!--END_SECTION:waka-->
 
 
