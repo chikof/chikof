@@ -10,7 +10,7 @@
 Hello there! If you're interested in getting in touch with me, feel free to reach out on my [Discord server](https://discord.gg/sejc7TnX6N). I'm looking forward to connecting with you!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C265%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C267%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -19,8 +19,6 @@ Hello there! If you're interested in getting in touch with me, feel free to reac
 **🐱 My GitHub Data** 
 
 > 📦 65.8 kB Used in GitHub's Storage 
- > 
-> 🏆 243 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -55,17 +53,17 @@ Sunday                   3554 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Rust                     15 hrs 14 mins      ████████████████░░░░░░░░░   62.31 % 
-TypeScript               3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Nix                      1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-TOML                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-CSS                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Rust                     15 hrs 31 mins      ████████████████░░░░░░░░░   64.38 % 
+TypeScript               3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Nix                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+TOML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+CSS                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-Neovim                   24 hrs 27 mins      █████████████████████████   100.00 % 
+Neovim                   24 hrs 6 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,7 +79,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/04/2025 01:08:25 UTC
+ Last Updated on 26/04/2025 01:06:02 UTC
 <!--END_SECTION:waka-->
 
 
