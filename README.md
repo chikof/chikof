@@ -1,13 +1,28 @@
-<h2><img src="https://cdn.discordapp.com/emojis/1100181376730402906.gif?quality=lossless" width="40"> Guten tag y'all, I'm Chiko <img src="https://a.ppy.sh/15907233" width="50"></h2>
-<a href="https://cataas.com"><img align='right' src="https://cataas.com/cat" width="230"></a>
-<p><em>Developer at <a href="https://github.com/FlakySL">Flaky</a></em></p>
+## 👋 Hallo, I'm Chiko!
+
+<div align="center">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/chikoxq?label=Follow)](https://twitter.com/intent/follow?screen_name=chikoxq)
 ![GitHub followers](https://img.shields.io/github/followers/chikof?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=chikof&color=blue)
 
-### 📫 Get in touch
-Hello there! If you're interested in getting in touch with me, feel free to reach out on my [Discord server](https://discord.gg/sejc7TnX6N). I'm looking forward to connecting with you!
+</div>
+
+<a href="https://cataas.com">
+<img src="https://cataas.com/cat?type=square" align="right" width="300"alt="Random cat">
+</a>
+
+<div><picture><img src="https://raw.githubusercontent.com/carbon-language/carbon-lang/refs/heads/trunk/docs/images/bumper.png" alt=""></picture></div>
+
+### 📫 Get in Touch
+Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6N). I'd love to connect with you!
+
+<details>
+<summary>
+<img src="https://cdn3.emoji.gg/emojis/64203-noko-think.png" width="35px" height="35px" alt="noko_think" align="center">
+
+### Wakatime
+</summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C278%20hrs%2041%20mins-blue)
@@ -84,6 +99,7 @@ Python                   3 repos             █░░░░░░░░░░�
  Last Updated on 28/04/2025 01:10:04 UTC
 <!--END_SECTION:waka-->
 
+</details>
 
 <!--
 <p align="center">
