@@ -25,7 +25,7 @@ Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C321%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C327%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -34,8 +34,6 @@ Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6
 **🐱 My GitHub Data** 
 
 > 📦 104.0 kB Used in GitHub's Storage 
- > 
-> 🏆 285 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -70,17 +68,17 @@ Sunday                   3608 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Nix                      7 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-Rust                     7 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-YAML                     4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Nushell                  3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-TypeScript               1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Rust                     9 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.92 % 
+Nushell                  6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+Nix                      4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+YAML                     4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+TypeScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-Neovim                   25 hrs 55 mins      █████████████████████████   100.00 % 
+Neovim                   28 hrs 24 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    25 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +94,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2025 01:11:17 UTC
+ Last Updated on 20/05/2025 01:08:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
