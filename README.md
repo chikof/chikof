@@ -27,15 +27,13 @@ Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C419%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 106.2 kB Used in GitHub's Storage 
- > 
-> 🏆 434 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -92,7 +90,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2025 01:11:42 UTC
+ Last Updated on 16/08/2025 01:08:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
