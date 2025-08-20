@@ -25,7 +25,7 @@ Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C419%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C421%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -33,7 +33,7 @@ Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6
 
 **🐱 My GitHub Data** 
 
-> 📦 106.1 kB Used in GitHub's Storage 
+> 📦 106.2 kB Used in GitHub's Storage 
  > 
 > 🏆 434 Contributions in the Year 2025
  > 
@@ -70,13 +70,17 @@ Sunday                   4094 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Nushell                  29 mins             ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+Rust                     28 mins             ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+Nix                      23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+gitconfig                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   1 hr 38 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,7 +96,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2025 01:08:38 UTC
+ Last Updated on 20/08/2025 01:08:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
