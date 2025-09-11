@@ -27,7 +27,7 @@ Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C430%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.8%20million%20lines%20of%20code-blue)
 
@@ -70,16 +70,13 @@ Sunday                   4213 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Rust                     28 mins             ██████████████░░░░░░░░░░░   54.04 % 
-SQL                      12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-Other                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Nix                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -95,7 +92,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2025 01:03:31 UTC
+ Last Updated on 11/09/2025 01:04:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
