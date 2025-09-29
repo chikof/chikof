@@ -25,15 +25,17 @@ Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6
 </summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C433%20hrs%201%20min-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 106.2 kB Used in GitHub's Storage 
+> 📦 106.3 kB Used in GitHub's Storage 
  > 
-> 🏆 443 Contributions in the Year 2025
+> 🏆 446 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -41,6 +43,46 @@ Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6
  > 
 > 🔑 33 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                925 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+🌆 Daytime                6007 commits        ████████░░░░░░░░░░░░░░░░░   31.06 % 
+🌃 Evening                9316 commits        ████████████░░░░░░░░░░░░░   48.16 % 
+🌙 Night                  3095 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   2263 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Tuesday                  1336 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Wednesday                2607 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Thursday                 2899 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Friday                   3566 commits        █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Saturday                 2414 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Sunday                   4258 commits        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+Nix                      19 mins             ████████████░░░░░░░░░░░░░   46.97 % 
+Other                    11 mins             ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+Lua                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Rust                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+
+🔥 Editors: 
+Neovim                   42 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    42 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -54,7 +96,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 01:10:29 UTC
+ Last Updated on 29/09/2025 01:07:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
