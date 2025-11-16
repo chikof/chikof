@@ -25,17 +25,15 @@ Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C469%20hrs%2015%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 106.4 kB Used in GitHub's Storage 
+> 📦 108.1 kB Used in GitHub's Storage 
  > 
-> 🏆 531 Contributions in the Year 2025
+> 🏆 532 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -43,46 +41,6 @@ Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6
  > 
 > 🔑 33 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                952 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-🌆 Daytime                6146 commits        ████████░░░░░░░░░░░░░░░░░   31.03 % 
-🌃 Evening                9577 commits        ████████████░░░░░░░░░░░░░   48.36 % 
-🌙 Night                  3130 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   2294 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Tuesday                  1370 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Wednesday                2641 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Thursday                 2963 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Friday                   3606 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Saturday                 2597 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Sunday                   4334 commits        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-TypeScript               3 hrs 48 mins       ████████████░░░░░░░░░░░░░   47.74 % 
-Nix                      1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
-JSON                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-
-🔥 Editors: 
-Neovim                   7 hrs 57 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    7 hrs 57 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -96,7 +54,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 00:16:39 UTC
+ Last Updated on 16/11/2025 00:17:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
