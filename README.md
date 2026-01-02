@@ -25,11 +25,11 @@ Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C550%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C554%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.74%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,17 +70,17 @@ Sunday                   3368 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               2 hrs 16 mins       ███████████████░░░░░░░░░░   59.46 % 
-Nix                      1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+TypeScript               5 hrs 35 mins       █████████████████░░░░░░░░   67.17 % 
+Nix                      1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 50 mins       █████████████████████████   100.00 % 
+Neovim                   8 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 50 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +96,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 00:18:22 UTC
+ Last Updated on 02/01/2026 00:18:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
