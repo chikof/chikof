@@ -25,9 +25,9 @@ Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C565%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C568%20hrs%2058%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.74%20million%20lines%20of%20code-blue?style=flat)
 
@@ -70,17 +70,17 @@ Sunday                   3371 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               3 hrs 55 mins       █████████████████░░░░░░░░   66.39 % 
-Nix                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+TypeScript               3 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   41.15 % 
+Rust                     2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   30.66 % 
+Nix                      56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 54 mins       █████████████████████████   100.00 % 
+Neovim                   8 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 54 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +96,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2026 00:16:11 UTC
+ Last Updated on 08/01/2026 00:17:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
