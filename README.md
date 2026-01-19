@@ -27,7 +27,7 @@ Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C580%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -70,17 +70,17 @@ Sunday                   3410 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Rust                     4 hrs 4 mins        ███████████░░░░░░░░░░░░░░   42.91 % 
-TypeScript               2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-Nix                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+TypeScript               2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   34.87 % 
+Rust                     1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+conf                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 30 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +96,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/01/2026 00:18:12 UTC
+ Last Updated on 19/01/2026 00:18:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
