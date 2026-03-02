@@ -1,28 +1,47 @@
-## 👋 Hallo, I'm Chiko!
-
 <div align="center">
+
+<h1>
+ Chiko
+</h1>
+ 
+<picture>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/chikoxq?label=Follow)](https://twitter.com/intent/follow?screen_name=chikoxq)
 ![GitHub followers](https://img.shields.io/github/followers/chikof?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=chikof&color=blue)
 
+</picture>
 </div>
+
 
 <a href="https://cataas.com">
 <img src="https://cataas.com/cat?type=square" align="right" width="300"alt="Random cat">
 </a>
 
+
 <div><picture><img src="https://raw.githubusercontent.com/carbon-language/carbon-lang/refs/heads/trunk/docs/images/bumper.png" alt=""></picture></div>
 
-### 📫 Get in Touch
+<div align="right">
+<h3>
+  Get in Touch
+  <picture><img src="https://cdn3.emoji.gg/emojis/854170-okey-frieren.png" width="35" alt="okey-frieren" style="vertical-align: middle;" /></picture>
+</h3>
+
 Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6N). I'd love to connect with you!
 
-<details>
-<summary>
-<img src="https://cdn3.emoji.gg/emojis/64203-noko-think.png" width="35px" height="35px" alt="noko_think" align="center">
+</div>
 
-### Wakatime
-</summary>
+<details>
+  <summary style="text-align: center; list-style: none;" align="center">
+   <h3>
+    <picture>
+     <img src="https://cdn3.emoji.gg/emojis/64203-noko-think.png"
+          width="35"
+          style="vertical-align: middle;" />
+    <picture>
+    Wakatime
+    </h3>
+  </summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C646%20hrs%208%20mins-blue?style=flat)
