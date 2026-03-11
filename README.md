@@ -44,7 +44,7 @@ Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6
   </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C673%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C681%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -54,11 +54,11 @@ Feel free to reach out to me on my [Discord server](https://discord.gg/sejc7TnX6
 
 > 📦 111.2 kB Used in GitHub's Storage 
  > 
-> 🏆 109 Contributions in the Year 2026
+> 🏆 110 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 48 Public Repositories 
+> 📜 49 Public Repositories 
  > 
 > 🔑 33 Private Repositories 
  > 
@@ -89,17 +89,17 @@ Sunday                   3255 commits        ███████░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Go                       6 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-Rust                     5 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Nix                      2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-YAML                     2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Markdown                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Go                       7 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+Rust                     6 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Svelte                   5 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+YAML                     2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Nix                      2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 
 🔥 Editors: 
-Neovim                   25 hrs 7 mins       █████████████████████████   100.00 % 
+Neovim                   32 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    25 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    32 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +115,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2026 00:16:58 UTC
+ Last Updated on 11/03/2026 00:17:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
